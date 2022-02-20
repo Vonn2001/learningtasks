@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Recipes </title>
+</head>
+<body>
+<h1>Recipes</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="Chilli con Carne.html">Chilli con Carne</a></li>
+<li><a href="Omelette.html">Omelette</a></li>
+<li><a href="Pad Thai Chicken.html">Pad Thai Chicken</a></li>
+<li><a href="Thai Green Curry.html">Thai Green Curry</a></li>
+<li><a href="Pineapple Chicken.html">Pineapple Chicken</a></li>
+<li><a href="Vegetarian Rice.html">Vegetarian Rice</a></li>
+<li><a href="Salmon in the oven.html">Salmon in the oven</a></li>
+</ul>
+</body>
+</html>

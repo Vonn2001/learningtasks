@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Home Page </title>
+<style>
+#wrapper #box-one, #box-two, #box-three, #box-four, #box-five, #box-six, #box-seven, #box-eight, #box-nine, #box-ten{
+width: 280px;
+height: 520px;
+border: 2px solid #4ADEDE;
+margin: 8px;
+float: left;
+font-size: 24px;
+text-align: auto; 
+text-align: center;
+color: white;
+background-color: black;
+}
+img {
+width: 100%;
+}
+body {
+background-image: url(loop.avif);
+background-position: left;
+}
+h1 {
+text-align: center;
+color: white;
+}
+h5 {
+color: grey;
+text-align: left;
+}
+</style>
+</head>
+<body>
+<h1>My Top 10 Favorite Marvel Movies!</h1>
+<div id="wrapper">
+<div id="box-one">
+Top 1
+<img src="shang.jpg"> SHANG-CHI 
+<br> 
+<h5>A skilled martial artist who was trained at a young age to be an assassin by his father Wenwu. Shang-Chi left the Ten Rings organization for a normal life in San Francisco, and changed his name to "Shaun".</h5>
+</div>
+<div id="box-two">
+Top 2 
+<img src="spider.jpg"> SPIDER-MAN NO WAY HOME
+<br>
+<h5>When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man. Peter Parker's secret identity is revealed to the entire world.</h5>
+</div>
+<div id="box-three">
+Top 3
+<img src="venom.jpg"> VENOM
+<br>
+<h5> A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it. After a faulty interview with the Life Foundation ruins his career, former reporter Eddie Brock's life is in pieces.</h5>
+</div>
+<div id="box-four">
+Top 4
+<img src="endgame.jpg"> AVENGERS: ENDGAME
+<br>
+<h5>Description: The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, "Avengers: Endgame."</h5>
+</div>
+<div id="box-five">Top 5
+<img src="infi.jpg"> AVENGERS: INFINITY WAR
+<br>
+<h5>The Avengers and the Guardians of the Galaxy attempt to prevent Thanos from collecting the six all-powerful Infinity Stones as part of his quest to kill half of all life in the universe. The film was announced in October 2014 as Avengers: Infinity War – Part 1.</h5>
+</div>
+<div id="box-six">
+Top 6
+<img src="civil.jpg"> CAPTAIN AMERICA: CIVIL WAR
+<br>
+<h5>Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man. With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero's actions.</h5>
+</div>
+<div id="box-seven">
+Top 7
+<img src="eternals.jpg"> ETERNALS
+<br>
+<h5>Following the events of Avengers: Endgame (2019), an unexpected tragedy forces the Eternals, ancient aliens who have been living on Earth in secret for thousands of years, out of the shadows to reunite against mankind's most ancient enemy, the Deviants.</h5>
+</div>
+<div id="box-eight">
+Top 8
+<img src="ragna.jpg"> THOR RAGNAROK
+<br>
+<h5>In Thor: Ragnarok, Thor must escape the alien planet Sakaar in time to save Asgard from Hela (Blanchett) and the impending Ragnarök. A third Thor film was confirmed in January 2014, when Kyle and Yost began work on the screenplay. The involvement of Hemsworth and Hiddleston was announced that October.</h5>
+</div>
+<div id="box-nine">
+Top 9
+<img src="guardians.jpg">GUARDIANS OF THE GALAXY VOL2
+<br>
+<h5> Set to the backdrop of "Awesome Mixtape #2", Marvel's Guardians of the Galaxy Vol. 2 continues the team's adventures as they traverse the outer reaches of the cosmos.</h5>
+</div>
+<div id="box-ten">
+Top 10
+<img src="dr.jpg">DR. STRANGE
+<br>
+<h5>Marvel's "Doctor Strange" follows the story of the talented neurosurgeon Doctor Stephen Strange who, after a tragic car accident, must put ego aside and learn the secrets of a hidden world of mysticism and alternate dimensions.</h5>
+</div>
+</body>
+</html>

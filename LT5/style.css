@@ -1,0 +1,72 @@
+body {
+background-image: url(back.png);
+background-size: 1600px 800px;
+}
+
+h1 {
+	font-family: Trebuchet MS;
+	color: #152238;
+	float: right;
+	text-align: right;
+	margin: 80px;
+	padding: 3px 340px;
+	font-size: 45px;
+}
+
+h1 span {
+	background-color: #9d2933;
+}
+
+h2 {
+	font-family: Trebuchet MS;
+	color: #152238;
+	font-size: 60px;
+}
+
+h2 sen {
+	float: left;
+	margin: 30px 42px;
+	text-align: left;
+	background-color: #9d2933;
+	padding: 1px 325px;
+}
+
+h2 sen:hover:before {
+  content: "Sentinels are defensive experts that have abilities that manipulate the battlefield, lock-down areas of contention and provide utility such as healing. There are currently four Sentinels in VALORANT: Cypher; Killjoy; Chamber; and Sage."
+}
+
+h2 con {
+	float: right;
+	margin: 30px 42px;
+	text-align: left;
+	background-color: #9d2933;
+	padding: 1px 350px;
+}
+
+h2 con:hover:before {
+	content: "Controllers are experts at controlling the battlefield by the use of smoke screens. Their abilities disrupt their opponent's sightlines whilst providing cover for teammates as they take control of an area. There are currently four controllers in VALORANT: Astra; Brimstone; Omen; and Viper."
+}
+
+h2 du {
+	margin: 30px 42px;
+	float: left;
+	text-align: left;
+	background-color: #9d2933;
+	padding: 1px 360px;
+}
+
+h2 du:hover:before {
+	content: "Duelists are the offensive experts in VALORANT with abilities that allow them to be aggressive and self-sufficient when creating opportunities to engage with opponents. There are currently six Duelists in the game: Jett; Phoenix; Raze; Reyna; Yoru and Neon."
+}
+
+h2 in {
+	margin: 30px 42px;
+	float: right;
+	text-align: left;
+	background-color: #9d2933;
+	padding: 1px 325px;
+}
+
+h2 in:hover:before {
+	content: "Initiators excel at gathering information and controlling the movements of opponents through the use of their abilities. There are four Initiators in VALORANT: Sova; Skye; Breach and KAY/O. Sova and Skye rely on their abilities to perform reconnaissance in an area while Breach and KAY/O specialise in disrupting enemies in their path through the use of their crowd control abilities."
+}

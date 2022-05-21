@@ -3,7 +3,9 @@
 <link rel="stylesheet" href="fincss.css">
 <script src="script1.js"></script>
 <head>
-<title> My Home Page </title>
+<?php
+$title = "Your title goes here";
+?>
 </head>
 <body>
 <div class="topnav">

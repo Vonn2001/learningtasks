@@ -62,7 +62,8 @@ echo "<pp class='des'>09266888817</pp>";
 <div class="data">
 <?php
 echo "<h4 class='name'>Facebook</h4>";
-echo "<pp class='des'>von blaise estilles / Or Click Here</pp>";
+echo "<pp class='des'>von blaise estilles</pp>";
+echo "<pp class='des'>Or Click Here</pp>";
 ?>
 <a href="https://www.facebook.com/vonblaise.estilles/" target="_blank"> My Fb</a>
 </div>

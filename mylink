@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title> Valorant! </title>
+<script>
+
+</script>
+</head>
+<body>
+<h1><span>  Pick Your Role!  </span></h1>
+<h2><sen> Sentinels </sen></h2>
+<h2><con> Controller </con></h2>
+<br>
+<h2><du> Duelist </du></h2>
+<h2><in> Initiators </in></h2>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<script type="text/javascript">
+
+var anchor = document.getElementById('anchor');
+var anchor = getElementById('anchor');
+        // or anchor = getElementsByTagName('a') then do ('a')[0]
+
+        anchor.addEventListener('click', doSomething, false);
+
+        function doSomething() {
+            alert('clicked');
+        }
+</script>
+
